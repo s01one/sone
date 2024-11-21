@@ -1,0 +1,10 @@
+{
+    "engine_version": "Engine-Version",
+    "laravel_version": "Laravel-Version",
+    "php_version": "PHP-Version",
+    "installation": "Installation",
+    "update": "Aktualisierung",
+    "documentation": "Dokumentation",
+    "coming_soon": "Kommt bald!",
+    "message": "Wir arbeiten daran, unsere Website zu verbessern. Bitte schauen Sie später noch einmal vorbei."
+}

@@ -11,8 +11,9 @@
 <body class="antialiased">
 <div id="app">
     <welcome
+        :languages='@json(config("languages.languages"))'
         engine-version="v1.0.0"
-        php-version="v{{ PHP_VERSION }}"
+        php-version="v{{ phpversion() }}"
         laravel-version="v{{ app()->version() }}"
     ></welcome>
 </div>

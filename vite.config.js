@@ -22,8 +22,7 @@ export default defineConfig({
         alias: {
             vue: 'vue/dist/vue.esm-bundler.js',
             '@': path.resolve(__dirname, 'resources/js'),
-            'ziggy-js': path.resolve('vendor/tightenco/ziggy'),
-            '~bootstrap': path.resolve(__dirname, 'node_modules/bootstrap')
+            'ziggy-js': path.resolve('vendor/tightenco/ziggy')
         }
     }
 });

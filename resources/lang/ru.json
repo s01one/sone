@@ -1,0 +1,10 @@
+{
+    "engine_version": "Версия движка",
+    "laravel_version": "Версия Laravel",
+    "php_version": "Версия PHP",
+    "installation": "Установка",
+    "update": "Обновление",
+    "documentation": "Документация",
+    "coming_soon": "Скоро вернемся!",
+    "message": "Мы работаем над улучшением нашего сайта. Пожалуйста, загляните позже."
+}
